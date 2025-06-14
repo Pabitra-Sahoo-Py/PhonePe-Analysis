@@ -31,7 +31,7 @@ PhonePe is a leading digital payments platform in India. This project analyzes P
 
 ## 🖼️ Dashboard Preview
 
-![PhonePe Dashboard](dashboard.png)
+![PhonePe Dashboard](Dashboard.png)
 
 ---
 
